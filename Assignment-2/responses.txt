@@ -1,0 +1,5 @@
+* One way that data travels on the internet is through fiberoptic cables. These cables are made of glass, and are engineered to reflect light. By sending bits stored as light through the cables, they can reach their destination really fast and without degradation.
+* An IP address is an identifying string of numbers, composed of bits, that act as an address for a specific device. This is composed of the country of origin, the regional network, the subnetwork, and the device itself.
+  A DNS is a server that helps your IP address connect to other IP addresses, and stores the locations for later use. DNS servers communicate with one another if they don't know the address.
+* Cookies are small files of data that are stored on your computer to be used by specific websites. These files allow your browser to customize the webpage to fit your needs, and then have that information stored for the next time you visit.
+* A URL has three basic parts: a protocol, the server name, and the resource ID.
