@@ -5,13 +5,24 @@
   position: absolute;
 }
 
-.container {
+.container-1 {
   width: 400px;
   height: 400px;
   margin: auto;
   padding: 20px;
-  border: 10px solid black;
+  border: 10px solid pink;
   background-color: orange;
   position: absolute;
   right: 750px;
+}
+
+.container-2 {
+  width: 200px;
+  height: 400px;
+  margin: auto;
+  padding: 20px;
+  border: 10px solid lightgreen;
+  background-color: lavender;
+  position: absolute;
+  left: 500px;
 }
