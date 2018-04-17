@@ -1,9 +1,38 @@
+
+p {
+  font-family: cursive;
+  color: orange;
+  font-weight: bold;
+  font-size: 50px;
+  position: absolute;
+  top: 110px;
+  left: 312px;
+  text-shadow: 2px 2px 2px;
+
+}
+
+p.header {
+  color: salmon;
+  font-size: 15px;
+  position: absolute;
+  top: 0px;
+  z-index: 1;
+  text-align: center;
+  margin-top: 6px;
+
+}
+
+p b {
+  text-decoration: underline !important;
+}
 .canvas {
   background-color: powderblue;
   height: 800px;
   width: 800px;
   position: absolute;
+
 }
+
 
 .container-1 {
   width: 400px;
@@ -13,7 +42,9 @@
   border: 10px solid pink;
   background-color: orange;
   position: absolute;
-  right: 730px;
+  right: 745px;
+  top: 30px;
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
 }
 
 .container-2 {
@@ -24,5 +55,22 @@
   border: 10px solid lightgreen;
   background-color: lavender;
   position: absolute;
-  left: 500px;
+  left: 530px;
+  top: 30px;
+  text-align: center;
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+}
+
+.container-3 {
+  width: 710px;
+  height: 230px;
+  margin: auto;
+  padding: 20px;
+  border: 10px solid lightyellow;
+  background-color: salmon;
+  position: absolute;
+  top: 500px;
+  right: 435px;
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+
 }
