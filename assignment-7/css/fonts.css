@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+Great+Primer');
+@import url('https://fonts.googleapis.com/css?family=Lora');
+
+@font-face {
+  font-family: 'Lora-Italic';
+  src: url('../fonts/Lora-Italic.ttf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Lora-Bold';
+  src: url('../fonts/Lora-Bold.ttf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lora-BoldItalic';
+  src: url('../fonts/Lora-BoldItalic.ttf') format('opentype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'IM Fell Great Primer, Sarif';
+  font-weight: normal;
+  font-style: normal;
+}
