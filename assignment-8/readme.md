@@ -1,6 +1,6 @@
 # Assignment 8 Readme
 
-Padding is the filler space that surrounds an element and keeps space between other elements, margin is the space between the content and the edge of the padding, and a border is a designated px space that surrounds the edge of the element.
+Padding is the filler space that surrounds between the content and the border of the element, margin is the space between the element's border and other elements, and a border is a designated px space that surrounds the edge of the element.
 
 The hardest thing for me to accomplish this assignment was the layout and the nesting of elements using ids and classes. Understanding the difference between the two is very confusing and I struggled to organize my code because of that.
 
