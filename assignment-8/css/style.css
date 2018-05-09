@@ -1,0 +1,154 @@
+body {
+  background-color: #FDFDF1;
+}
+
+h3 {
+  font-family: 'Forte';
+  font-size: 40px;
+  color: #ED1701;
+  margin: 0px;
+  margin-left: 170px;
+}
+
+.fancy {
+    margin: 0px;
+    margin-left: 170px;
+    color: #303F44;
+    font-family: 'ARLRDBD';
+}
+
+.title {
+  position: absolute;
+  left: 300px;
+  top: 50px;
+  z-index: 3;
+  font-family: 'Forte';
+  font-size: 40px;
+  color: #303F44;
+}
+
+.filterqueen {
+  position: absolute;
+  left: 600px;
+  top: 200px;
+  z-index: 2;
+  font-family: 'Meridien-Medium';
+  font-size: 50px;
+  font-style: italic;
+  font-style: bold;
+  background-color: #303F44;
+  padding: 20px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.bagless {
+  position: absolute;
+  left: 570px;
+  top: 315px;
+  z-index: 2;
+  font-family: 'ARLRDBD';
+  font-size: 30px;
+  color: #303F44;
+}
+
+.woman {
+  position: absolute;
+  left: 40px;
+  top: 70px;
+  width: 400px;
+  height: 1000px;
+  z-index: 3;
+}
+
+#scene {
+  position: absolute;
+  left: 20px;
+  top: 950px;
+  width: 450px;
+  height: 280px;
+  z-index: 2;
+}
+
+#icon-inside {
+  position: absolute;
+  left: 450px;
+  top: 420px;
+  width: 500px;
+  height: 120px;
+  z-index: 2;
+}
+
+.img-icon {
+  width: 150px;
+  float: left;
+}
+
+#form {
+  position: absolute;
+  left: 450px;
+  top: 1550px;
+  border: 3px dashed #303F44;
+  width: 300px;
+}
+
+#icon-outside {
+  position: absolute;
+  left: 450px;
+  top: 550px;
+  width: 500px;
+  height: 120px;
+  z-index: 2;
+}
+
+#icon-wastebasket {
+  position: absolute;
+  left: 450px;
+  top: 750px;
+  width: 500px;
+  height: 120px;
+  z-index: 2;
+}
+
+.paragraph{
+  position: absolute;
+  left: 350px;
+  top: 950px;
+  width: 500px;
+}
+
+#patent {
+  position: absolute;
+  left: 10px;
+  top: 700px;
+  font-size: 12px;
+  font-family: 'ARLRDBD';
+  color: #303F44;
+}
+
+#filterqueenimage {
+  position: absolute;
+  left: 50px;
+  top: 1330px;
+  z-index: 2;
+}
+
+#logo {
+  position: absolute;
+  left: 300px;
+  top: 1250px;
+  z-index: 2;
+}
+
+#guarantee {
+  position: absolute;
+  left: 630px;
+  top: 1440px;
+  z-index: 3;
+}
+
+#magazine {
+  position: absolute;
+  left: 200px;
+  top: 1800px;
+}
